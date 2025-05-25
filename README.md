@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danaijantapalaboon" alt="danaijantapalaboon" /></a> </p>
 
+- 🌱 I’m currently learning **LLM, Image Recognition**
+
 - 👨‍💻 All of my projects are available at [https://danaidev.netlify.app/](https://danaidev.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@danai.athlon](https://medium.com/@danai.athlon)
